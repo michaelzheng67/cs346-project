@@ -1,0 +1,16 @@
+runtime: java17
+instance_class: B8
+
+entrypoint: 'java -Dio.ktor.development=false -jar ./server/build/libs/server-all.jar'
+
+handlers:
+  - url: /.*
+    script: this field is required, but ignored
+    secure: always # Enforces https
+    redirect_http_response_code: 301
+
+manual_scaling:
+  instances: 1
+
+env_variables:
+  OPEN_API_KEY: "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"
