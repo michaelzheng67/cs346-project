@@ -6,6 +6,10 @@
 
 A social media app designed to connect people who love travelling and sharing their experiences. The goal is to allow users to store, bookmark and display their past trips and excursions alongside other users in a social media format reminiscent of Pinterest or Reddit for travelling.
 
+<img width="1512" alt="Screenshot 2023-12-11 at 5 50 28 PM" src="https://github.com/michaelzheng67/cs346-project/assets/82613778/29f91ead-9fb1-4a53-9168-5b3c86ab805a">
+
+
+
 ## Team Members
 
 Aryan Rastogi [a8rastogi@uwaterloo.ca](mailto:a8rastogi@uwaterloo.ca) \
