@@ -8,6 +8,8 @@ A social media app designed to connect people who love travelling and sharing th
 
 <img width="1512" alt="Screenshot 2023-12-11 at 5 50 28 PM" src="https://github.com/michaelzheng67/cs346-project/assets/82613778/29f91ead-9fb1-4a53-9168-5b3c86ab805a">
 
+CS346 Project Gallery Entry:
+https://student.cs.uwaterloo.ca/~cs346/1241/project-gallery.html#google-ai
 
 
 ## Team Members
